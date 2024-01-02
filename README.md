@@ -4,7 +4,7 @@ This code belongs to research paper entitled as "A Model-Free Toolface Control S
 This paper proposes a model-free online learning-based adaptive decision approach to the directional drilling toolface, which enables self-study and applicability in complex downhole environments.
 
 ## Dependencies
-python 3.8
+Python 3.8
 
 ## Dataset
 Due to the commercial confidentiality agreement with our collaborator, related real drilling data was removed from the repository. If necessary, please kindly contact us and we will then request the relevant authorizations from our collaborator.
