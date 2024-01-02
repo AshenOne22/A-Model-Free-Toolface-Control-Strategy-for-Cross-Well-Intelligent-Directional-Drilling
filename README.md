@@ -7,7 +7,16 @@ This paper proposes a model-free online learning-based adaptive decision approac
 Python 3.8
 
 ## Dataset
-Due to the commercial confidentiality agreement with our collaborator, related real drilling data was removed from the repository. If necessary, please kindly contact us and we will then request the relevant authorizations from our collaborator.
+Due to the commercial confidentiality agreement with our collaborator, related real drilling data was removed from the repository. If necessary, please kindly contact us and we will then request the relevant authorizations from our collaborator
+
+## Simulation Schemes Description
+### Exp 1: Multi-head attention LSTM
+1. Dataset Preparation
+2. Model Architecture
+3. Data Preprocessing
+4. Model Training and Validation
+5. Performance Evaluation
+6. Further Analysis (comparsion)
 
 ## Folder Description
 Directory ***Mutli-head attention LSTM*** contains code for the system model proposed in **Section 3.1**, and ***proposed improved DDPG*** contains code for the decision algorithm proposed in **Section 3.2**.
@@ -17,3 +26,6 @@ Directory ***Strategy Model Train*** corresponds to model encapsulation part in 
 Directory ***field exp toolface & torque*** corresponds to simulation analysis part (rl_compare) in **Section 4.1**, and field experimental verification part in **Section 4.2.2**
 
 Directory ***field exp control param*** corresponds to field experimental verification part in **Section 4.2.2**.
+
+
+
