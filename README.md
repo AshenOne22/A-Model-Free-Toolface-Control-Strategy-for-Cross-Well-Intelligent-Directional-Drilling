@@ -17,7 +17,7 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 3. Data Preprocessing
 4. Model Training and Validation
 5. Performance Evaluation
-6. Further Analysis (comparsion)
+6. Further Analysis (comparsion with original LSTM, RNN)
 
 ### Exp 2: Improved DDPG training
 *Run* proposed improved DDPG/rl_ddpg_t2.py
