@@ -11,7 +11,7 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 
 ## Programs Description
 ### EXP 1: Multi-head attention LSTM training
-*Run* [Multi-head attention LSTM/compare.py]
+*Run* [Multi-head attention LSTM/compare.py](https://github.com/AshenOne22/A-Model-Free-Toolface-Control-Strategy-for-Cross-Well-Intelligent-Directional-Drilling/blob/main/Mutli-head%20attention%20LSTM/compare.py)
 1. Dataset Preparation
 2. LSTM Model Architecture
 3. Data Preprocessing
@@ -20,7 +20,7 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 6. Further Analysis (comparsion with original LSTM, RNN)
 
 ### EXP 2: Improved DDPG training
-*Run* [proposed improved DDPG/rl_ddpg_t2.py]
+*Run* [proposed improved DDPG/rl_ddpg_t2.py](https://github.com/AshenOne22/A-Model-Free-Toolface-Control-Strategy-for-Cross-Well-Intelligent-Directional-Drilling/blob/main/proposed%20improved%20DDPG/rl_ddpg_t2.py)
 1. Environment Setup
 2. DDPG Algorithm
 3. Training
@@ -30,7 +30,8 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 
 ## Simulation Schemes
 ### EXP 3: Simulation Analysis
-*Run* [field exp toolface & torque/rl_compare.py]
+*Run* [field exp toolface & torque/rl_compare.py](https://github.com/AshenOne22/A-Model-Free-Toolface-Control-Strategy-for-Cross-Well-Intelligent-Directional-Drilling/blob/main/field%20exp%20toolface%20%26%20torque/rl_compare.py)
+
 **Objective**: Evaluate and compare the performance of different reinforcement learning algorithms including Policy Gradient (PG), Deep Deterministic Policy Gradient (DDPG), and our improved DDPG.
 1. Reward Data Extraction
 2. Visualization
