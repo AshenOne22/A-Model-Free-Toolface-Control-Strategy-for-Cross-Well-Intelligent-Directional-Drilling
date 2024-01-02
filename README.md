@@ -7,7 +7,7 @@ This paper proposes a model-free online learning-based adaptive decision approac
 Python 3.8
 
 ## Dataset
-Due to the commercial confidentiality agreement with our collaborator, related real drilling data was removed from the repository. If necessary, please kindly contact us and we will then request the relevant authorizations from our collaborator.
+Due to the commercial confidentiality agreement with our collaborator, related real drilling data was removed from the repository. If the data is necessary, please kindly contact us and we will then request the relevant authorizations from our collaborator.
 
 ## Programs Description
 ### EXP 1: Multi-head attention LSTM training
