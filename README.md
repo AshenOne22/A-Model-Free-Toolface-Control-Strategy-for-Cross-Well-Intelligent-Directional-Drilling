@@ -11,6 +11,7 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 
 ## Programs Description
 ### Exp 1: Multi-head attention LSTM
+Run Multi-head attention LSTM/compare.py
 1. Dataset Preparation
 2. LSTM Model Architecture
 3. Data Preprocessing
@@ -19,6 +20,7 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 6. Further Analysis (comparsion)
 
 ### Exp 2: Improved DDPG training
+Run proposed improved DDPG/rl_ddpg_t2.py
 1. Environment Setup
 2. DDPG Algorithm
 3. Training
