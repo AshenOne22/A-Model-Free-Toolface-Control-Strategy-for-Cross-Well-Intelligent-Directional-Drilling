@@ -29,22 +29,11 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 6. Saving Results and Model
 
 ## Simulation Schemes
-### EXP 3: Simulation Analysis
+### EXP 3: Migrated Model Test
+*Run* [Multi-head attention LSTM/lstm_time1_out3_t9.py](https://github.com/AshenOne22/A-Model-Free-Toolface-Control-Strategy-for-Cross-Well-Intelligent-Directional-Drilling/blob/main/Mutli-head%20attention%20LSTM/lstm_time1_out3_t9.py)
+**Objective**: Evaluate the performance of control parameter predict of the initial model
+
+### EXP 4: Simulation Analysis for Decision Algorithm Performance
 *Run* [field exp toolface & torque/rl_compare.py](https://github.com/AshenOne22/A-Model-Free-Toolface-Control-Strategy-for-Cross-Well-Intelligent-Directional-Drilling/blob/main/field%20exp%20toolface%20%26%20torque/rl_compare.py)
 
 **Objective**: Evaluate and compare the performance of different reinforcement learning algorithms including Policy Gradient (PG), Deep Deterministic Policy Gradient (DDPG), and our improved DDPG.
-1. Reward Data Extraction
-2. Visualization
-3. Output
-
-## Folder Description
-Directory ***Mutli-head attention LSTM*** contains code for the system model proposed in **Section 3.1**, and ***proposed improved DDPG*** contains code for the decision algorithm proposed in **Section 3.2**.
-
-Directory ***Strategy Model Train*** corresponds to model encapsulation part in **Section 4.2.1**
-
-Directory ***field exp toolface & torque*** corresponds to simulation analysis part (rl_compare) in **Section 4.1**, and field experimental verification part in **Section 4.2.2**
-
-Directory ***field exp control param*** corresponds to field experimental verification part in **Section 4.2.2**.
-
-
-
