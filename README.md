@@ -10,7 +10,7 @@ Python 3.8
 Due to the commercial confidentiality agreement with our collaborator, related real drilling data was removed from the repository. If necessary, please kindly contact us and we will then request the relevant authorizations from our collaborator
 
 ## Programs Description
-### Exp 1: Multi-head attention LSTM
+### Exp 1: Multi-head attention LSTM training
 *Run* Multi-head attention LSTM/compare.py
 1. Dataset Preparation
 2. LSTM Model Architecture
