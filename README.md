@@ -9,7 +9,7 @@ Python 3.8
 ## Dataset
 Due to the commercial confidentiality agreement with our collaborator, related real drilling data was removed from the repository. If necessary, please kindly contact us and we will then request the relevant authorizations from our collaborator
 
-## Program Description
+## Programs Description
 ### Exp 1: Multi-head attention LSTM
 1. Dataset Preparation
 2. LSTM Model Architecture
@@ -21,7 +21,10 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 ### Exp 2: Improved DDPG training
 1. Environment Setup
 2. DDPG Algorithm
-3. 
+3. Training
+4. Exploration and Exploitation
+5. Evaluation and Visualization
+6. Saving Results and Model
 
 ## Folder Description
 Directory ***Mutli-head attention LSTM*** contains code for the system model proposed in **Section 3.1**, and ***proposed improved DDPG*** contains code for the decision algorithm proposed in **Section 3.2**.
