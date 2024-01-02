@@ -8,6 +8,6 @@ Directory ***Mutli-head attention LSTM*** contains code for the system model pro
 
 Directory ***Strategy Model Train*** corresponds to model encapsulation part in **Section 4.2.1**
 
-Directory ***field exp toolface & torque*** corresponds to simulation analysis part (rl_compare) in ** Section 4.1**, and field experimental verification part in **Section 4.2.2**
+Directory ***field exp toolface & torque*** corresponds to simulation analysis part (rl_compare) in **Section 4.1**, and field experimental verification part in **Section 4.2.2**
 
 Directory ***field exp control param*** corresponds to field experimental verification part in **Section 4.2.2**.
