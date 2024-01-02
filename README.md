@@ -35,9 +35,7 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 **Objective**: Evaluate and compare the performance of different reinforcement learning algorithms including Policy Gradient (PG), Deep Deterministic Policy Gradient (DDPG), and our improved DDPG.
 1. Reward Data Extraction
 2. Visualization
-
-### EXP 4: Field Verification
-**Objective**: 
+3. Output
 
 ## Folder Description
 Directory ***Mutli-head attention LSTM*** contains code for the system model proposed in **Section 3.1**, and ***proposed improved DDPG*** contains code for the decision algorithm proposed in **Section 3.2**.
