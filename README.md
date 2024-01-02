@@ -7,7 +7,7 @@ This paper proposes a model-free online learning-based adaptive decision approac
 python 3.8
 
 ## Dataset
-Due to the commercial confidentiality agreement with our collaborator, related real drilling data was removed from the repository. If necessary, please kindly contact us and we will then seek relevant authorizations from our collaborator.
+Due to the commercial confidentiality agreement with our collaborator, related real drilling data was removed from the repository. If necessary, please kindly contact us and we will then request the relevant authorizations from our collaborator.
 
 ## Folder Description
 Directory ***Mutli-head attention LSTM*** contains code for the system model proposed in **Section 3.1**, and ***proposed improved DDPG*** contains code for the decision algorithm proposed in **Section 3.2**.
