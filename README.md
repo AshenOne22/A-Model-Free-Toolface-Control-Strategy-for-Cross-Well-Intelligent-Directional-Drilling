@@ -11,7 +11,7 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 
 ## Programs Description
 ### EXP 1: Multi-head attention LSTM training
-*Run* Multi-head attention LSTM/compare.py
+*Run* [Multi-head attention LSTM/compare.py]
 1. Dataset Preparation
 2. LSTM Model Architecture
 3. Data Preprocessing
@@ -20,13 +20,23 @@ Due to the commercial confidentiality agreement with our collaborator, related r
 6. Further Analysis (comparsion with original LSTM, RNN)
 
 ### EXP 2: Improved DDPG training
-*Run* proposed improved DDPG/rl_ddpg_t2.py
+*Run* [proposed improved DDPG/rl_ddpg_t2.py]
 1. Environment Setup
 2. DDPG Algorithm
 3. Training
 4. Exploration and Exploitation
 5. Evaluation and Visualization
 6. Saving Results and Model
+
+## Simulation Schemes
+### EXP 3: Simulation Analysis
+*Run* [field exp toolface & torque/rl_compare.py]
+**Objective**: Evaluate and compare the performance of different reinforcement learning algorithms including Policy Gradient (PG), Deep Deterministic Policy Gradient (DDPG), and our improved DDPG.
+1. Reward Data Extraction
+2. Visualization
+
+### EXP 4: Field Verification
+**Objective**: 
 
 ## Folder Description
 Directory ***Mutli-head attention LSTM*** contains code for the system model proposed in **Section 3.1**, and ***proposed improved DDPG*** contains code for the decision algorithm proposed in **Section 3.2**.
